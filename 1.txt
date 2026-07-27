@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 123
 đâsd
 ưqeqweqweeqeqeqweqwewqewqweqwe
+=======
+1233123123
+>>>>>>> test2
